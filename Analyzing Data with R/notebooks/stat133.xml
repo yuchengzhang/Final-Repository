@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+
+
+<stat133 name='Computing with Data' department='STAT'>
+        
+    <student sid='1232243'>
+        <name>Bob Durant</name>
+        <midterm>55</midterm>
+        <final>88</final>
+        <homework>99</homework>
+        <section>1</section>
+        <major>STAT</major>
+    </student>
+    
+    <student sid='3213453'>
+        <name>Agnes Thomas</name>
+        <midterm>99</midterm>
+        <final>90</final>
+        <homework>99</homework>
+        <section>2</section>
+        <major>ECON</major>
+    </student>
+    
+</stat133>
